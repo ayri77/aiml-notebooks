@@ -1,0 +1,60 @@
+{"id": "notes-01", "kind": "notes", "tools": ["search_notes", "search_notes"]}
+{"id": "notes-02", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-03", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-04", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-05", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-06", "kind": "notes", "tools": ["search_notes", "search_notes"]}
+{"id": "notes-07", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-08", "kind": "notes", "tools": ["search_notes", "search_notes", "search_notes"]}
+{"id": "notes-09", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-10", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-11", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-12", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-13", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-14", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-15", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-16", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-17", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-18", "kind": "notes", "tools": ["search_notes"]}
+{"id": "notes-19", "kind": "notes", "tools": ["search_notes", "search_notes"]}
+{"id": "notes-20", "kind": "notes", "tools": ["search_notes"]}
+{"id": "todo-01", "kind": "todo", "tools": ["add_task"]}
+{"id": "todo-02", "kind": "todo", "tools": ["add_task"]}
+{"id": "todo-03", "kind": "todo", "tools": ["list_tasks", "delete_task"]}
+{"id": "todo-04", "kind": "todo", "tools": ["list_tasks", "delete_task"]}
+{"id": "todo-05", "kind": "todo", "tools": ["list_tasks"]}
+{"id": "todo-06", "kind": "todo", "tools": ["send_reminder"]}
+{"id": "todo-07", "kind": "todo", "tools": ["send_reminder"]}
+{"id": "todo-08", "kind": "todo", "tools": ["days_until"]}
+{"id": "todo-09", "kind": "todo", "tools": ["add_task", "add_task"]}
+{"id": "todo-10", "kind": "todo", "tools": ["list_tasks", "delete_task", "add_task"]}
+{"id": "todo-11", "kind": "todo", "tools": ["send_reminder"]}
+{"id": "todo-12", "kind": "todo", "tools": ["list_tasks", "delete_task", "delete_task"]}
+{"id": "todo-13", "kind": "todo", "tools": ["add_task", "send_reminder"]}
+{"id": "todo-14", "kind": "todo", "tools": ["days_until"]}
+{"id": "todo-15", "kind": "todo", "tools": ["days_until"]}
+{"id": "todo-16", "kind": "todo", "tools": ["send_reminder"]}
+{"id": "todo-17", "kind": "todo", "tools": ["add_task", "list_tasks"]}
+{"id": "todo-18", "kind": "todo", "tools": ["send_reminder"]}
+{"id": "todo-19", "kind": "todo", "tools": ["add_task"]}
+{"id": "todo-20", "kind": "todo", "tools": ["list_tasks", "delete_task"]}
+{"id": "mixed-01", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-02", "kind": "mixed", "tools": ["search_notes", "send_reminder"]}
+{"id": "mixed-03", "kind": "mixed", "tools": ["search_notes", "list_tasks", "delete_task"]}
+{"id": "mixed-04", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-05", "kind": "mixed", "tools": ["search_notes", "days_until"]}
+{"id": "mixed-06", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-07", "kind": "mixed", "tools": ["search_notes", "send_reminder"]}
+{"id": "mixed-08", "kind": "mixed", "tools": ["search_notes", "list_tasks", "delete_task"]}
+{"id": "mixed-09", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-10", "kind": "mixed", "tools": ["search_notes", "days_until"]}
+{"id": "mixed-11", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-12", "kind": "mixed", "tools": ["search_notes", "send_reminder"]}
+{"id": "mixed-13", "kind": "mixed", "tools": ["search_notes", "list_tasks", "delete_task"]}
+{"id": "mixed-14", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-15", "kind": "mixed", "tools": ["search_notes", "days_until"]}
+{"id": "mixed-16", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-17", "kind": "mixed", "tools": ["search_notes", "send_reminder"]}
+{"id": "mixed-18", "kind": "mixed", "tools": ["search_notes", "list_tasks", "search_notes", "delete_task"]}
+{"id": "mixed-19", "kind": "mixed", "tools": ["search_notes", "add_task"]}
+{"id": "mixed-20", "kind": "mixed", "tools": ["search_notes", "days_until"]}
